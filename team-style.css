@@ -24,7 +24,7 @@ body{
 }
 
 .container{
-    /* position: absolute; */
+     position: relative; 
     margin-top: 13%;
     display: flex;
     padding: 80px 40px;
@@ -33,6 +33,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     gap: 300px;
+    
     /* z-index: -1; */
 }
 .card{
